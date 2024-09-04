@@ -1,0 +1,34 @@
+[
+  {
+    "package": "piecepackr",
+    "url": "https://github.com/piecepackr/piecepackr"
+  },
+  {
+    "package": "piecenikr",
+    "url": "https://github.com/piecepackr/piecenikr"
+  },
+  {
+    "package": "ppcli",
+    "url": "https://github.com/piecepackr/ppcli"
+  },
+  {
+    "package": "ppdf",
+    "url": "https://github.com/piecepackr/ppdf"
+  },
+  {
+    "package": "ppgamer",
+    "url": "https://github.com/piecepackr/ppgamer"
+  },
+  {
+    "package": "ppn",
+    "url": "https://github.com/piecepackr/ppn"
+  },
+  {
+    "package": "pprules",
+    "url": "https://github.com/piecepackr/pprules"
+  },
+  {
+    "package": "ppwicker",
+    "url": "https://github.com/piecepackr/ppwicker"
+  }
+]
